@@ -9,8 +9,7 @@
     - wget
     - httpd
     - httpd-tools
-    - elinks
-    - python-devel
+    - curl
 
 # Configure apache
 - name: Ensure httpd is running
